@@ -235,7 +235,7 @@ logo =(f"""
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
 ╠══[Author                   • \33[1;38mHeron-BRO ]\33[1;38m    ║\033[1;31m 
-╠══[Facebook                 • Heron Chowdhury       ║  \033[1;97m  
+╠══[Facebook                 • Heron Chowdhury║  \033[1;97m  
 ╠══[Github                   • \33[1;38mRiyad22750 ║\33[1;34m   
 ╠══[Whatsapp                 • 01*********    ║\33[1;35m 
 ╠══[TOOLS                    • PAID ]         ║ \33[1;32m   
@@ -291,9 +291,9 @@ meyexudi()
 def naima():
 	print('-------------------')
 print(logo)
-os.system('espeak -a 300 " Your,   Real,  Name,"')
+os.system('espeak -a 300 " Your,   Real,  Father,  Name,"')
 uname =input('\033[1;91m[\033[1;92m√\033[1;91m] \x1b[38;5;50mENTER YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  Heron,  V I P,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  Heron,  baba,  Tools"')
 def back():
 	login()
 	
